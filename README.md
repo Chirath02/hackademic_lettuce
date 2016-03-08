@@ -1,4 +1,4 @@
-# hackademic_lettuce
+# Hackademic Lettuce Tests
 
 A set of Lettuce tests to test the future implementations of Hackademic.
 
